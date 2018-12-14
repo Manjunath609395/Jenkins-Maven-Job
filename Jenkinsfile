@@ -4,7 +4,7 @@ pipeline {
 	
 	 tools {
 	 
-	 maven 'Maven-3.3.1'
+	 maven 'C:\Workables\apache-maven-3.3.1\bin'
 	 
 	 } 
 	 
